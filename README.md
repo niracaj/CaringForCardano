@@ -1,3 +1,6 @@
+
+[CaringForCardano.com](http://caringforcardano.com)
+
 <div align="center">
 <img src="http://66.219.5.15/stlfiles/images/Glock2021.gif" alt="caringforcardano.com" />
   <hr />
@@ -15,5 +18,3 @@
   <img src="http://66.219.5.15/images/optprices.png" />
 </div>
 
-
-[CaringForCardano](http://caringforcardano.com)
