@@ -2,7 +2,8 @@
 [CaringForCardano.com](http://caringforcardano.com)
 
 <div align="center">
-<img src="http://66.219.5.15/stlfiles/images/Glock2021.gif" alt="caringforcardano.com" />
+  <img src="http://66.219.5.15/images/logo512.webp" alt="caringforcardano.com" />
+  <img src="http://66.219.5.15/stlfiles/images/Glock2021.gif" alt="caringforcardano.com" />
   <hr />
     <h2 align="center" style="border-bottom: none">Caring For Cardano</h2>
   <hr/>
