@@ -3,6 +3,7 @@
   <hr />
     <h2 align="center" style="border-bottom: none">Caring For Cardano</h2>
   <hr/>
+  <img src="http://66.219.5.15/images/carindashboard.png" />
   <img src="http://66.219.5.15/images/prices.png" />
   <img src="http://66.219.5.15/images/adabtcprices.png" />
   <img src="http://66.219.5.15/images/adaprices.png" />
