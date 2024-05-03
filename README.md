@@ -12,7 +12,6 @@
   <img src="http://64.235.82.145/images/wmtprices.png" />
   <img src="http://64.235.82.145/images/myieldprices.png" />
   <img src="http://64.235.82.145/images/tunaprices.png" />
-  <img src="http://64.235.82.145/images/huntprices.png" />
   <img src="http://64.235.82.145/images/optprices.png" />
 </div>
 <div align="center">
