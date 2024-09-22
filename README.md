@@ -13,9 +13,7 @@
   <img src="http://192.171.13.139/images/myieldprices.png" />
   <img src="http://192.171.13.139/images/tunaprices.png" />
   <img src="http://192.171.13.139/images/optprices.png" />
-  <a href="http://192.171.13.139:3000/AllItemsForSale">
-     <img src="http://192.171.13.139/images/scrollingforsale.gif" alt="CaringForCardano Misc For Sale">
-  </a>
+  <img src="http://192.171.13.139/images/scrollingforsale.gif" />
 </div>
 <div align="center">
   <hr />
