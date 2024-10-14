@@ -1,5 +1,8 @@
 [CaringForCardano.com](http://caringforcardano.com)
 <div align="center">
+  <body>
+    <img src="http://66.219.5.246/images/carincardano.png" alt="Cardano" />
+  </body>
   <hr />
     <h2 align="center" style="border-bottom: none">Caring For Cardano</h2>
   <hr/>
