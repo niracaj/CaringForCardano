@@ -6,7 +6,7 @@
   <hr />
     <h2 align="center" style="border-bottom: none">Caring For Cardano</h2>
   <hr/>
-  <img src="http://216.122.99.142/images/carindashboard.png" />
+  [CaringForCardano.com]<img src="http://216.122.99.142/images/carindashboard.png" />
   <img src="http://216.122.99.142/images/prices.png" />
   <img src="http://216.122.99.142/images/adabtcprices.png" />
   <img src="http://216.122.99.142/images/adaprices.png" />
